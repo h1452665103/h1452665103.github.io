@@ -24,16 +24,12 @@ type: about
 
 ## 历程
 
-### 2019/08/18 博客建立
+### 2020/07/01 博客建立
 
 ......
 此处有千言万语道不尽
 
-### 2019/11/23 博客更换主题：NEXT
-
-- [x] 2019/11/24  增加 Live2d 功能
-- [x] 2019/11/25  增加对 reveal.js 的支持，可以推送slides到博客，实现在线预览
-- [x] 2019/11/26  增加对 mermaid 的支持，官方的 mermaid 不支持 markdown 中的 mermaid
+- [x] ​
 
 ## Todo
 
@@ -47,7 +43,7 @@ type: about
 
 ## Links
 
-- 个人博客：[明不知昔](https://noctiflorous.gitee.io/)
+- 个人博客：[JackHe](https://h1452665103.gitee.io/)
 - 免费影视资源：[www.66s.cc](www.66s.cc)
 - 博客大神：[星合の空 wu-kan](wu-kan.github.io)
 - 学习资料网站：[C 语言中文网](http://c.biancheng.net)
